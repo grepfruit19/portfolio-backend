@@ -1,3 +1,7 @@
 venv
 .env
 us_state_vaccinations.csv
+pyvenv.cfg
+bin
+include
+lib
